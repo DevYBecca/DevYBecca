@@ -71,8 +71,8 @@
 
 <div align="center">
 
-  [![Geumyeop's github stats](https://github-readme-stats.vercel.app/api?username=DevYBecca&custom_title=Geumyeop's%20GitHub👩🏻‍💻&bg_color=80,B3CBED,fff&title_color=fff&text_color=0F1738)](https://github.com/anuraghazra/github-readme-stats)
+  [![Geumyeop's github stats](https://github-readme-stats-eight-delta-12.vercel.app/api?username=DevYBecca&custom_title=Geumyeop's%20GitHub👩🏻‍💻&bg_color=80,B3CBED,fff&title_color=fff&text_color=0F1738)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevYBecca&bg_color=70,B3CBED,fff&title_color=fff&text_color=0F1738&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-eight-delta-12.vercel.app/api/top-langs/?username=DevYBecca&bg_color=70,B3CBED,fff&title_color=fff&text_color=0F1738&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
