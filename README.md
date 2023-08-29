@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-logo&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-logo&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-logo&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-logo&logo=Vue.js&logoColor=white" />
 
 <br />
 
